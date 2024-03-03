@@ -26,3 +26,6 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Course
+https://www.bilibili.com/video/BV1n64y1n7xE/?spm_id_from=333.337.search-card.all.click&vd_source=8a944ff7c629b9438d4ebae214ecdccb
